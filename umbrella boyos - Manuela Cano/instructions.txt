@@ -1,0 +1,8 @@
+Instructons for Umbrella Boyos:
+
+
+SPACEBAR - change the weather from stormy to sunny
+
+BACKSPACE - turns back time by reversing the movements of the elements on screen
+
+X - pressing the x blacks out the screen 
